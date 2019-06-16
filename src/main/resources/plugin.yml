@@ -1,0 +1,8 @@
+name: Crown
+version: @version@
+depend: [Nemo]
+main: heartin.plugin.crown.GamePlugin
+
+commands:
+    game:
+      usage: /<command> help

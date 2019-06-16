@@ -1,0 +1,9 @@
+stand-offset-y: 2.5
+time-ticks: 600
+blocks:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '6'
+  - '7'
